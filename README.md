@@ -9,5 +9,6 @@ Eagle component libraries for UPRA HW development
 * UPRA_SD_card.lbr - SD card connectors
 * UPRA_Batteries.lbr - Batteries
 * UPRA_RF.lbr - RF components
+* UPRA_RS485.lbr - RS485 driver ICs
 * UPRA_GPS_Modules.lbr - GPS Modules and breakout boards
 * UPRA_BaseBoards.lbr - UPRA form factor boards
